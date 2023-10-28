@@ -14,3 +14,4 @@ console.log(`Your secure password is: ${chars}`)
 - [ ] Task 1
 - [X] Task 2
 - [ ] Task 3
+- [ ] Yippie
